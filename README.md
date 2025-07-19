@@ -1,19 +1,4 @@
-fastapi_kpa/
-├── app/
-│   ├── main.py
-│   ├── database.py
-│   ├── models/
-│   │   ├── wheel_spec_model.py
-│   │   └── bogie_checksheet_model.py
-│   ├── schemas/
-│   │   ├── wheel_spec.py
-│   │   └── bogie_checksheet.py
-│   ├── routers/
-│   │   ├── wheel_spec.py
-│   │   └── bogie_checksheet.py
-├── requirements.txt
-├── README.md
-└── env/ (virtual environment)
+
 
 
 Setup Instructions
