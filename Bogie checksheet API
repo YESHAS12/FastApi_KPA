@@ -1,0 +1,8 @@
+{
+    "message": "Bogie checksheet successfully submitted.",
+    "data": {
+        "bogie_id": "BG17811923",
+        "inspection_date": "2025-07-19",
+        "status": "Passed"
+    }
+}
