@@ -1,0 +1,8 @@
+{
+    "message": "Wheel specification successfully submitted.",
+    "data": {
+        "wheel_number": "W78931134",
+        "diameter": 915.0,
+        "rim_thickness": 25.0
+    }
+}
